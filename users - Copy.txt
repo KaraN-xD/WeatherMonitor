@@ -1,2 +1,0 @@
-karan,1234,admin
-lmao,lol,user

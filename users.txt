@@ -1,3 +1,0 @@
-karan,1234,admin
-anshika,2345,user
-nirmal,3456,userpanda,lol,user
